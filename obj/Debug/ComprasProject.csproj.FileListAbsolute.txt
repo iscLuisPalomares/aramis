@@ -1,0 +1,325 @@
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\bin\Debug\ComprasProject.exe.config
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\bin\Debug\ComprasProject.exe
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\bin\Debug\ComprasProject.pdb
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApproveCotizacionC.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditUser.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditPass.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.loading.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuApAjuste.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoAjustes.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoDeptoChart.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoDepto.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoVendorChart.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepLineasRecibidas.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepLineasConPO.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepVendorDuties.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoVendor.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepDelegados.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepPOAprobados.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Reportes.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EliminarLinea.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditDepto.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditDelegado.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.AddDelegado.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeVendor.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Delegados.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApprovedAjustes.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CancelPODetail.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CancelPOList.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApprovePO.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApproveCotizacion.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApprovedCotizaciones.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApproveAjuste.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeSKU.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeFlag.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateAjuste.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.exceltodatagridview.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.FilesAjuste.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuManager.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuRequisitor.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuAlmacen.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuCompras.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuAprobador.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuFinanzas.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MonitorAjustes.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MonitorLineas.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ImprimirPO.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ImprimirPOdev.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ImprimirListaPOs.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingAjustesB.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingAjustes.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeDivisa.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingCotizacionesC.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingCotizacionesB.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingRequiAdmin.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RecibosPOBuyer.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RecotizarList.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Suppliers.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RecibosAddRecibo.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Cotizaciones.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateCotizacion.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RecibosPO.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.FilesPO.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.FilesCot.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CotizacionesParaPO.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.LineasPorCotizar.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.DetalleRequi.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateAllPOrder.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingCotizaciones.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApprovedRequis.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.AddMaterial.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApproveRequi.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateRequi.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.FilesRequi.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Buckets.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingPOs.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingRequi.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeBudget.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeAjustado.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateBucket.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateAccount.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangePeriod.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateSKU.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateASL.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateDepto.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateUser.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.IdleLogin.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Login.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Menu.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Properties.Resources.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Departamentos.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.SKU.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Accounts.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Usuarios.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.csproj.GenerateResource.Cache
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.exe
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.pdb
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.csprojResolveAssemblyReference.cache
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApproveApAjuste.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingApAjustes.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateExtraCharge.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ConfLineaDel.resources
+C:\Users\opardo\Documents\Visual Studio 2015\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MotivoCotRechazada.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\bin\Debug\ComprasProject.exe.config
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\bin\Debug\ComprasProject.exe
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\bin\Debug\ComprasProject.pdb
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApproveApAjuste.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ConfLineaDel.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateExtraCharge.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditLinea.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditUser.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditPass.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.LineasPorCotizarOscar.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.loading.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuApAjuste.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MotivoCotRechazada.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingApAjustes.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoAjustes.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoDeptoChart.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoDepto.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoVendorChart.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepLineasRecibidas.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepLineasConPO.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepVendorDuties.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoVendor.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepDelegados.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepPOAprobados.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Reportes.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EliminarLinea.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditDepto.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditDelegado.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.AddDelegado.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeVendor.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Delegados.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApprovedAjustes.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CancelPODetail.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CancelPOList.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApprovePO.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApproveCotizacion.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApprovedCotizaciones.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApproveAjuste.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeSKU.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeFlag.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateAjuste.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.exceltodatagridview.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.FilesAjuste.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuManager.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuRequisitor.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuAlmacen.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuCompras.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuAprobador.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuFinanzas.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MonitorAjustes.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MonitorLineas.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ImprimirPO.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ImprimirPOdev.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ImprimirListaPOs.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingAjustesB.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingAjustes.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeDivisa.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingCotizacionesC.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingCotizacionesB.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingRequiAdmin.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RecibosPOBuyer.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RecotizarList.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Suppliers.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RecibosAddRecibo.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Cotizaciones.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateCotizacion.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RecibosPO.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.FilesPO.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.FilesCot.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CotizacionesParaPO.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.LineasPorCotizar.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.DetalleRequi.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateAllPOrder.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingCotizaciones.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApprovedRequis.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.AddMaterial.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApproveRequi.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateRequi.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.FilesRequi.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Buckets.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingPOs.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingRequi.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeBudget.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeAjustado.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateBucket.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateAccount.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangePeriod.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateSKU.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateASL.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateDepto.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateUser.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.IdleLogin.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Login.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Menu.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Properties.Resources.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Departamentos.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.SKU.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Accounts.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Usuarios.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.csproj.GenerateResource.Cache
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.exe
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.pdb
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.csprojResolveAssemblyReference.cache
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateSKU2.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CotizacionEdit.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.StatusCot.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeCotStatus.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\bin\Debug\ComprasProject.exe.config
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.exe
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.pdb
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\bin\Debug\ComprasProject.exe
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\bin\Debug\ComprasProject.pdb
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.csprojResolveAssemblyReference.cache
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApproveApAjuste.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeCotStatus.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CotizacionEdit.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ConfLineaDel.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateExtraCharge.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateSKU2.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditLinea.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditUser.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditPass.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.LineasPorCotizarOscar.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.loading.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuApAjuste.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MotivoCotRechazada.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingApAjustes.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoAjustes.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoDeptoChart.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoDepto.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoVendorChart.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepLineasRecibidas.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepLineasConPO.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepVendorDuties.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepGastoVendor.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepDelegados.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RepPOAprobados.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Reportes.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EliminarLinea.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditDepto.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditDelegado.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.AddDelegado.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeVendor.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Delegados.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApprovedAjustes.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CancelPODetail.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CancelPOList.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApprovePO.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApproveCotizacion.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApprovedCotizaciones.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApproveAjuste.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeSKU.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeFlag.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateAjuste.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.exceltodatagridview.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.FilesAjuste.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuManager.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuRequisitor.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuAlmacen.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuCompras.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuAprobador.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MenuFinanzas.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MonitorAjustes.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MonitorLineas.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ImprimirPO.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ImprimirPOdev.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ImprimirListaPOs.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingAjustesB.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingAjustes.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeDivisa.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingCotizacionesC.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingCotizacionesB.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingRequiAdmin.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RecibosPOBuyer.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RecotizarList.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.StatusCot.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Suppliers.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RecibosAddRecibo.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Cotizaciones.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateCotizacion.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.RecibosPO.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.FilesPO.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.FilesCot.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CotizacionesParaPO.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.LineasPorCotizar.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.DetalleRequi.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateAllPOrder.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingCotizaciones.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApprovedRequis.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.AddMaterial.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ApproveRequi.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateRequi.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.FilesRequi.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Buckets.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingPOs.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.PendingRequi.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeBudget.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangeAjustado.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateBucket.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateAccount.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.ChangePeriod.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateSKU.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateASL.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateDepto.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.CreateUser.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.IdleLogin.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Login.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Menu.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Properties.Resources.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Departamentos.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.SKU.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Accounts.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.Usuarios.resources
+C:\Users\lpalomares\Documents\AllINONE\MyDocs\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.csproj.GenerateResource.Cache
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.EditCategoriaReportes.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MttoApproveReq.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MttoPendingApproveReq.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MttoRequisicion.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MttoApprovedReqs.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MttoMyReqs.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MttoRecibirTrabajo.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MttoAsignarTrabajo.resources
+C:\Users\lpalomares\Documents\Projects\ComprasProject\ComprasProject\obj\Debug\ComprasProject.MttoSelectWorker.resources

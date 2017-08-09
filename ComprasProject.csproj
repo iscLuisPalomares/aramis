@@ -1,0 +1,1199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE0CBAAA-3B9A-4371-9220-D735C26EDCCF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ComprasProject</RootNamespace>
+    <AssemblyName>ComprasProject</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>2130347_orig.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApproveApAjuste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApproveApAjuste.Designer.cs">
+      <DependentUpon>ApproveApAjuste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MttoAsignarTrabajo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MttoAsignarTrabajo.Designer.cs">
+      <DependentUpon>MttoAsignarTrabajo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MttoMyReqs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MttoMyReqs.Designer.cs">
+      <DependentUpon>MttoMyReqs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MttoApprovedReqs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MttoApprovedReqs.Designer.cs">
+      <DependentUpon>MttoApprovedReqs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MttoApproveReq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MttoApproveReq.Designer.cs">
+      <DependentUpon>MttoApproveReq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeCotStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeCotStatus.Designer.cs">
+      <DependentUpon>ChangeCotStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CotizacionEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CotizacionEdit.Designer.cs">
+      <DependentUpon>CotizacionEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CBCargos.cs" />
+    <Compile Include="ComboBoxBucketsAccounts.cs" />
+    <Compile Include="ComboBoxSKU.cs" />
+    <Compile Include="ComboBoxUserSolicitud.cs" />
+    <Compile Include="ComboBoxVendors.cs" />
+    <Compile Include="ConfLineaDel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfLineaDel.Designer.cs">
+      <DependentUpon>ConfLineaDel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateExtraCharge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateExtraCharge.Designer.cs">
+      <DependentUpon>CreateExtraCharge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateSKU2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateSKU2.Designer.cs">
+      <DependentUpon>CreateSKU2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditCategoriaReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditCategoriaReportes.Designer.cs">
+      <DependentUpon>EditCategoriaReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditLinea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditLinea.Designer.cs">
+      <DependentUpon>EditLinea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditUser.Designer.cs">
+      <DependentUpon>EditUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditPass.Designer.cs">
+      <DependentUpon>EditPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impresar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LineasPorCotizarOscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LineasPorCotizarOscar.Designer.cs">
+      <DependentUpon>LineasPorCotizarOscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loading.Designer.cs">
+      <DependentUpon>loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuApAjuste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuApAjuste.Designer.cs">
+      <DependentUpon>MenuApAjuste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotivoCotRechazada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotivoCotRechazada.Designer.cs">
+      <DependentUpon>MotivoCotRechazada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MttoRecibirTrabajo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MttoRecibirTrabajo.Designer.cs">
+      <DependentUpon>MttoRecibirTrabajo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MttoSelectWorker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MttoSelectWorker.Designer.cs">
+      <DependentUpon>MttoSelectWorker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PendingApAjustes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PendingApAjustes.Designer.cs">
+      <DependentUpon>PendingApAjustes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MttoPendingApproveReq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MttoPendingApproveReq.Designer.cs">
+      <DependentUpon>MttoPendingApproveReq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepGastoAjustes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepGastoAjustes.Designer.cs">
+      <DependentUpon>RepGastoAjustes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepGastoDeptoChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepGastoDeptoChart.Designer.cs">
+      <DependentUpon>RepGastoDeptoChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepGastoDepto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepGastoDepto.Designer.cs">
+      <DependentUpon>RepGastoDepto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepGastoVendorChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepGastoVendorChart.Designer.cs">
+      <DependentUpon>RepGastoVendorChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepLineasRecibidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepLineasRecibidas.Designer.cs">
+      <DependentUpon>RepLineasRecibidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepLineasConPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepLineasConPO.Designer.cs">
+      <DependentUpon>RepLineasConPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepVendorDuties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepVendorDuties.Designer.cs">
+      <DependentUpon>RepVendorDuties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepGastoVendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepGastoVendor.Designer.cs">
+      <DependentUpon>RepGastoVendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepDelegados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepDelegados.Designer.cs">
+      <DependentUpon>RepDelegados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepPOAprobados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepPOAprobados.Designer.cs">
+      <DependentUpon>RepPOAprobados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes.Designer.cs">
+      <DependentUpon>Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarLinea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarLinea.Designer.cs">
+      <DependentUpon>EliminarLinea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditDepto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditDepto.Designer.cs">
+      <DependentUpon>EditDepto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditDelegado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditDelegado.Designer.cs">
+      <DependentUpon>EditDelegado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddDelegado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDelegado.Designer.cs">
+      <DependentUpon>AddDelegado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeVendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeVendor.Designer.cs">
+      <DependentUpon>ChangeVendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delegados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delegados.Designer.cs">
+      <DependentUpon>Delegados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApprovedAjustes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApprovedAjustes.Designer.cs">
+      <DependentUpon>ApprovedAjustes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CancelPODetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CancelPODetail.Designer.cs">
+      <DependentUpon>CancelPODetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CancelPOList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CancelPOList.Designer.cs">
+      <DependentUpon>CancelPOList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApprovePO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApprovePO.Designer.cs">
+      <DependentUpon>ApprovePO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApproveCotizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApproveCotizacion.Designer.cs">
+      <DependentUpon>ApproveCotizacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApprovedCotizaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApprovedCotizaciones.Designer.cs">
+      <DependentUpon>ApprovedCotizaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApproveAjuste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApproveAjuste.Designer.cs">
+      <DependentUpon>ApproveAjuste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeSKU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeSKU.Designer.cs">
+      <DependentUpon>ChangeSKU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeFlag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeFlag.Designer.cs">
+      <DependentUpon>ChangeFlag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateAjuste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateAjuste.Designer.cs">
+      <DependentUpon>CreateAjuste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exceltodatagridview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exceltodatagridview.Designer.cs">
+      <DependentUpon>exceltodatagridview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilesAjuste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilesAjuste.Designer.cs">
+      <DependentUpon>FilesAjuste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuManager.Designer.cs">
+      <DependentUpon>MenuManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuRequisitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuRequisitor.Designer.cs">
+      <DependentUpon>MenuRequisitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAlmacen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAlmacen.Designer.cs">
+      <DependentUpon>MenuAlmacen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuCompras.Designer.cs">
+      <DependentUpon>MenuCompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAprobador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAprobador.Designer.cs">
+      <DependentUpon>MenuAprobador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuFinanzas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuFinanzas.Designer.cs">
+      <DependentUpon>MenuFinanzas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonitorAjustes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonitorAjustes.Designer.cs">
+      <DependentUpon>MonitorAjustes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonitorLineas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonitorLineas.Designer.cs">
+      <DependentUpon>MonitorLineas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImprimirPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImprimirPO.Designer.cs">
+      <DependentUpon>ImprimirPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImprimirPOdev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImprimirPOdev.Designer.cs">
+      <DependentUpon>ImprimirPOdev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImprimirListaPOs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImprimirListaPOs.Designer.cs">
+      <DependentUpon>ImprimirListaPOs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PendingAjustesB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PendingAjustesB.Designer.cs">
+      <DependentUpon>PendingAjustesB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PendingAjustes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PendingAjustes.Designer.cs">
+      <DependentUpon>PendingAjustes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeDivisa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeDivisa.Designer.cs">
+      <DependentUpon>ChangeDivisa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PendingCotizacionesC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PendingCotizacionesC.Designer.cs">
+      <DependentUpon>PendingCotizacionesC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PendingCotizacionesB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PendingCotizacionesB.Designer.cs">
+      <DependentUpon>PendingCotizacionesB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PendingRequiAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PendingRequiAdmin.Designer.cs">
+      <DependentUpon>PendingRequiAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RecibosPOBuyer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecibosPOBuyer.Designer.cs">
+      <DependentUpon>RecibosPOBuyer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RecotizarList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecotizarList.Designer.cs">
+      <DependentUpon>RecotizarList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MttoRequisicion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MttoRequisicion.Designer.cs">
+      <DependentUpon>MttoRequisicion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatusCot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatusCot.Designer.cs">
+      <DependentUpon>StatusCot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Suppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suppliers.Designer.cs">
+      <DependentUpon>Suppliers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RecibosAddRecibo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecibosAddRecibo.Designer.cs">
+      <DependentUpon>RecibosAddRecibo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cotizaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cotizaciones.Designer.cs">
+      <DependentUpon>Cotizaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateCotizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateCotizacion.Designer.cs">
+      <DependentUpon>CreateCotizacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RecibosPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecibosPO.Designer.cs">
+      <DependentUpon>RecibosPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilesPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilesPO.Designer.cs">
+      <DependentUpon>FilesPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilesCot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilesCot.Designer.cs">
+      <DependentUpon>FilesCot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CotizacionesParaPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CotizacionesParaPO.Designer.cs">
+      <DependentUpon>CotizacionesParaPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LineasPorCotizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LineasPorCotizar.Designer.cs">
+      <DependentUpon>LineasPorCotizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleRequi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetalleRequi.Designer.cs">
+      <DependentUpon>DetalleRequi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateAllPOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateAllPOrder.Designer.cs">
+      <DependentUpon>CreateAllPOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PendingCotizaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PendingCotizaciones.Designer.cs">
+      <DependentUpon>PendingCotizaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApprovedRequis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApprovedRequis.Designer.cs">
+      <DependentUpon>ApprovedRequis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddMaterial.Designer.cs">
+      <DependentUpon>AddMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApproveRequi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApproveRequi.Designer.cs">
+      <DependentUpon>ApproveRequi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateRequi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateRequi.Designer.cs">
+      <DependentUpon>CreateRequi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilesRequi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilesRequi.Designer.cs">
+      <DependentUpon>FilesRequi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buckets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buckets.Designer.cs">
+      <DependentUpon>Buckets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PendingPOs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PendingPOs.Designer.cs">
+      <DependentUpon>PendingPOs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PendingRequi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PendingRequi.Designer.cs">
+      <DependentUpon>PendingRequi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeBudget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeBudget.Designer.cs">
+      <DependentUpon>ChangeBudget.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeAjustado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeAjustado.Designer.cs">
+      <DependentUpon>ChangeAjustado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateBucket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateBucket.Designer.cs">
+      <DependentUpon>CreateBucket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateAccount.Designer.cs">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePeriod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePeriod.Designer.cs">
+      <DependentUpon>ChangePeriod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateSKU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateSKU.Designer.cs">
+      <DependentUpon>CreateSKU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateASL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateASL.Designer.cs">
+      <DependentUpon>CreateASL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateDepto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateDepto.Designer.cs">
+      <DependentUpon>CreateDepto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateUser.Designer.cs">
+      <DependentUpon>CreateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IdleLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IdleLogin.Designer.cs">
+      <DependentUpon>IdleLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Departamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departamentos.Designer.cs">
+      <DependentUpon>Departamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SKU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SKU.Designer.cs">
+      <DependentUpon>SKU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounts.Designer.cs">
+      <DependentUpon>Accounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios.Designer.cs">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ApproveApAjuste.resx">
+      <DependentUpon>ApproveApAjuste.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MttoAsignarTrabajo.resx">
+      <DependentUpon>MttoAsignarTrabajo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MttoMyReqs.resx">
+      <DependentUpon>MttoMyReqs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MttoApprovedReqs.resx">
+      <DependentUpon>MttoApprovedReqs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MttoApproveReq.resx">
+      <DependentUpon>MttoApproveReq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeCotStatus.resx">
+      <DependentUpon>ChangeCotStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CotizacionEdit.resx">
+      <DependentUpon>CotizacionEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfLineaDel.resx">
+      <DependentUpon>ConfLineaDel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateExtraCharge.resx">
+      <DependentUpon>CreateExtraCharge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateSKU2.resx">
+      <DependentUpon>CreateSKU2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditCategoriaReportes.resx">
+      <DependentUpon>EditCategoriaReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditLinea.resx">
+      <DependentUpon>EditLinea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditUser.resx">
+      <DependentUpon>EditUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditPass.resx">
+      <DependentUpon>EditPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LineasPorCotizarOscar.resx">
+      <DependentUpon>LineasPorCotizarOscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loading.resx">
+      <DependentUpon>loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuApAjuste.resx">
+      <DependentUpon>MenuApAjuste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotivoCotRechazada.resx">
+      <DependentUpon>MotivoCotRechazada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MttoRecibirTrabajo.resx">
+      <DependentUpon>MttoRecibirTrabajo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MttoSelectWorker.resx">
+      <DependentUpon>MttoSelectWorker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingApAjustes.resx">
+      <DependentUpon>PendingApAjustes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MttoPendingApproveReq.resx">
+      <DependentUpon>MttoPendingApproveReq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepGastoAjustes.resx">
+      <DependentUpon>RepGastoAjustes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepGastoDeptoChart.resx">
+      <DependentUpon>RepGastoDeptoChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepGastoDepto.resx">
+      <DependentUpon>RepGastoDepto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepGastoVendorChart.resx">
+      <DependentUpon>RepGastoVendorChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepLineasRecibidas.resx">
+      <DependentUpon>RepLineasRecibidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepLineasConPO.resx">
+      <DependentUpon>RepLineasConPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepVendorDuties.resx">
+      <DependentUpon>RepVendorDuties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepGastoVendor.resx">
+      <DependentUpon>RepGastoVendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepDelegados.resx">
+      <DependentUpon>RepDelegados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepPOAprobados.resx">
+      <DependentUpon>RepPOAprobados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes.resx">
+      <DependentUpon>Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarLinea.resx">
+      <DependentUpon>EliminarLinea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditDepto.resx">
+      <DependentUpon>EditDepto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditDelegado.resx">
+      <DependentUpon>EditDelegado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddDelegado.resx">
+      <DependentUpon>AddDelegado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeVendor.resx">
+      <DependentUpon>ChangeVendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delegados.resx">
+      <DependentUpon>Delegados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApprovedAjustes.resx">
+      <DependentUpon>ApprovedAjustes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CancelPODetail.resx">
+      <DependentUpon>CancelPODetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CancelPOList.resx">
+      <DependentUpon>CancelPOList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApprovePO.resx">
+      <DependentUpon>ApprovePO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApproveCotizacion.resx">
+      <DependentUpon>ApproveCotizacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApprovedCotizaciones.resx">
+      <DependentUpon>ApprovedCotizaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApproveAjuste.resx">
+      <DependentUpon>ApproveAjuste.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeSKU.resx">
+      <DependentUpon>ChangeSKU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeFlag.resx">
+      <DependentUpon>ChangeFlag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateAjuste.resx">
+      <DependentUpon>CreateAjuste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exceltodatagridview.resx">
+      <DependentUpon>exceltodatagridview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilesAjuste.resx">
+      <DependentUpon>FilesAjuste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuManager.resx">
+      <DependentUpon>MenuManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuRequisitor.resx">
+      <DependentUpon>MenuRequisitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAlmacen.resx">
+      <DependentUpon>MenuAlmacen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuCompras.resx">
+      <DependentUpon>MenuCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAprobador.resx">
+      <DependentUpon>MenuAprobador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuFinanzas.resx">
+      <DependentUpon>MenuFinanzas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonitorAjustes.resx">
+      <DependentUpon>MonitorAjustes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonitorLineas.resx">
+      <DependentUpon>MonitorLineas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImprimirPO.resx">
+      <DependentUpon>ImprimirPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImprimirPOdev.resx">
+      <DependentUpon>ImprimirPOdev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImprimirListaPOs.resx">
+      <DependentUpon>ImprimirListaPOs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingAjustesB.resx">
+      <DependentUpon>PendingAjustesB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingAjustes.resx">
+      <DependentUpon>PendingAjustes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeDivisa.resx">
+      <DependentUpon>ChangeDivisa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingCotizacionesC.resx">
+      <DependentUpon>PendingCotizacionesC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingCotizacionesB.resx">
+      <DependentUpon>PendingCotizacionesB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingRequiAdmin.resx">
+      <DependentUpon>PendingRequiAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecibosPOBuyer.resx">
+      <DependentUpon>RecibosPOBuyer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecotizarList.resx">
+      <DependentUpon>RecotizarList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MttoRequisicion.resx">
+      <DependentUpon>MttoRequisicion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatusCot.resx">
+      <DependentUpon>StatusCot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suppliers.resx">
+      <DependentUpon>Suppliers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecibosAddRecibo.resx">
+      <DependentUpon>RecibosAddRecibo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cotizaciones.resx">
+      <DependentUpon>Cotizaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateCotizacion.resx">
+      <DependentUpon>CreateCotizacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecibosPO.resx">
+      <DependentUpon>RecibosPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilesPO.resx">
+      <DependentUpon>FilesPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilesCot.resx">
+      <DependentUpon>FilesCot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CotizacionesParaPO.resx">
+      <DependentUpon>CotizacionesParaPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LineasPorCotizar.resx">
+      <DependentUpon>LineasPorCotizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleRequi.resx">
+      <DependentUpon>DetalleRequi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateAllPOrder.resx">
+      <DependentUpon>CreateAllPOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingCotizaciones.resx">
+      <DependentUpon>PendingCotizaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApprovedRequis.resx">
+      <DependentUpon>ApprovedRequis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddMaterial.resx">
+      <DependentUpon>AddMaterial.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApproveRequi.resx">
+      <DependentUpon>ApproveRequi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateRequi.resx">
+      <DependentUpon>CreateRequi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilesRequi.resx">
+      <DependentUpon>FilesRequi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buckets.resx">
+      <DependentUpon>Buckets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingPOs.resx">
+      <DependentUpon>PendingPOs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingRequi.resx">
+      <DependentUpon>PendingRequi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeBudget.resx">
+      <DependentUpon>ChangeBudget.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeAjustado.resx">
+      <DependentUpon>ChangeAjustado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateBucket.resx">
+      <DependentUpon>CreateBucket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateAccount.resx">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePeriod.resx">
+      <DependentUpon>ChangePeriod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateSKU.resx">
+      <DependentUpon>CreateSKU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateASL.resx">
+      <DependentUpon>CreateASL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateDepto.resx">
+      <DependentUpon>CreateDepto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateUser.resx">
+      <DependentUpon>CreateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdleLogin.resx">
+      <DependentUpon>IdleLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Departamentos.resx">
+      <DependentUpon>Departamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SKU.resx">
+      <DependentUpon>SKU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounts.resx">
+      <DependentUpon>Accounts.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios.resx">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PoseyLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adjustments.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\approved icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aprobarreq.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buckets.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\documents.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editsupplier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_format_list_bulleted_48px-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information-2400px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newdepto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newrequest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newuser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuevareq.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purchase_order.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rastrearpo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recibirpo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reportes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\request-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suppliers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xxx013-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adjustments - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aprobarreq - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buckets - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\createreq - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\detallereq - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\documents - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editsupplier - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information-2400px - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newdepto - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newrequest - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newuser - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuevareq - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\options.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purchase_order - Copy - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recibirpo - Copy - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\request-128 - Copy - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suppliers - Copy - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thumbs-up-hand-outline_318-41813 - Copy - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barcode-scanner-512 - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="2130347_orig.ico" />
+    <None Include="Resources\purchase.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
