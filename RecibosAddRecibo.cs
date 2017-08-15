@@ -106,12 +106,52 @@ namespace ComprasProject {
                 ejecucion.ExecuteNonQuery();
                 
                 actualizarbuckets();
-
+                enviarcorreo(idlinea);
                 MessageBox.Show("Actualizado", "Listo");
             } catch (Exception ex) {
                 MessageBox.Show(ex.ToString());
             }
         }
+
+        private void enviarcorreo(string idlinea) {
+            string requisitormail = getrequisitor(idlinea);
+            MailMessage mail = new MailMessage("aramis@posey.com", requisitormail);
+            SmtpClient client = new SmtpClient();
+            client.Port = 25;
+            client.DeliveryMethod = SmtpDeliveryMethod.Network;
+            client.UseDefaultCredentials = false;
+            client.Host = "mail.posey.com";
+            mail.Subject = "Nueva Requisicion para Aprobar";
+            mail.Body = "Se ha generado una nueva requisicion, ingrese al Sistema ARAMIS por favor para continuar.";
+            try {
+                client.Send(mail);
+                MessageBox.Show("Correo Enviado");
+            } catch (Exception) {
+                MessageBox.Show("Se presento un problema al enviar el correo");
+            }
+        }
+
+        private string getrequisitor(string idlinea) {
+            try {
+                string connectionstring = Program.stringconnection;
+                SqlConnection conn = new SqlConnection(connectionstring);
+                string sqlquery = "select top 1 correo from users where " +
+                    "id = (select gerente from deptos where " +
+                    "id = (select depto from users where id = " + user_id + "))";
+                conn.Open();
+                SqlDataAdapter adapter = new SqlDataAdapter(sqlquery, conn);
+                DataTable tabla = new DataTable();
+                adapter.Fill(tabla);
+                DataRow dr = tabla.Rows[0];
+                conn.Close();
+                return dr[0].ToString();
+            } catch (SqlException ex) {
+                MessageBox.Show(ex.ToString());
+                Close();
+                return "";
+            }
+        }
+
         private void getbucketid() {
             try {
                 string connectionstring = Program.stringconnection;

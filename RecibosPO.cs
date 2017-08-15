@@ -87,7 +87,6 @@ namespace ComprasProject {
             } catch (Exception) { }
         }
         private void dataGridView2_CellMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e) {
-            
             RecibosAddRecibo rr = new RecibosAddRecibo();
             rr.user_id = user_id;
             rr.usuario = usuario;
